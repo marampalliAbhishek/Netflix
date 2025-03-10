@@ -1,0 +1,184 @@
+*{
+    
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: ;
+    color: violet
+    
+}
+.backimg{
+    background-image: url(./ntflx\ back2.jpg);
+    height: 100vh;
+    width: 
+    background-size: cover;
+    
+}
+.background{
+    
+}
+.navbar{
+    
+    display: flex;
+    padding: 20px 50px;
+}
+.logo{
+    width: 10rem;
+height: 2px5rem;
+margin-right: auto;
+}
+.language{
+    
+    cursor: pointer;
+    justify-content: space-between;
+    margin-right: 1.3rem;
+    border-radius: 5px;
+    background: transparent;
+    padding: 0 10px;
+    height: 10px;
+}
+.option{
+
+    background-color: yellowgreen
+}
+.signin{
+    cursor: pointer;
+    justify-content: space-between;
+    background-color: red;
+    font-size: 1rem;
+    padding: 0 10px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+}
+.main{
+    
+    align-items: center;
+    text-align: center;
+    padding: 80px 33px;
+    width: fit-content;
+    margin: 0 auto;
+}
+.mainh1{
+    align-items: center;
+    font-size: 4rem;
+    margin-bottom: 10px;
+
+}
+.mainp{
+
+    text-align: center;
+    align-items: center;
+    font-size: 1.625rem;
+}
+.form{
+    display: flex;    
+}
+.form div{
+    height: 70px;
+    width: 900px;
+    
+}
+.form input{
+    height: 
+    width: 100p
+}
+.input:focus{
+    outline: none;
+}
+.form button{
+    width: 200px;
+    background-color: red;
+}
+.form label{
+    
+    position: absolute;
+    left: 10px;
+    color: grey;
+    background-color: blue;
+}
+.features{
+    padding: 50px 12%;
+    font-size: 22px;
+}
+.row{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 50px 0;
+}
+
+.text-col{
+    
+flex-basis: 50%;
+margin-bottom: 20px;
+
+}
+.img-col{
+    flex-basis: 50%;
+    margin-bottom: 20px;
+}
+.features{
+    
+    font-size: 50px;
+    font-weight: 600;
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+.features2{
+    color: aquamarine;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.features3{
+    font-size: 50px;
+    font-weight: 600;
+}
+.fap{
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+}
+.fap2{
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+
+}
+.fap3{
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+
+}
+.accodion li label{
+    display: flex;
+    align-items: center;
+padding: 20px;
+font-size: 18px;
+font-weight: 500;
+background: #303030;
+margin: 2px;
+cursor: pointer;
+position: relative;
+}
+
+label::after{
+    content: counter("+");
+}
+input{type=ra
+
+}
+
+
+
+
+
+
+
+
